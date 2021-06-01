@@ -2,4 +2,4 @@
 
 Para usar este repositorio, deberán ejecutar el comando de ```npm install```
 
-Pero esto lo veremos en la siguiente sección
+Pero construir la app, utilice el comando ``` npm run build ```
